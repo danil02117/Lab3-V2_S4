@@ -1,0 +1,82 @@
+[
+    {
+        "color": "Серебристый",
+        "year": 2020,
+        "price": 15000,
+        "model": "Corolla",
+        "brand": "Toyota",
+        "mileage": 25000
+    },
+    {
+        "color": "Красный",
+        "year": 2018,
+        "price": 17000,
+        "model": "Civic",
+        "brand": "Honda",
+        "mileage": 30000
+    },
+    {
+        "color": "Синий",
+        "year": 2019,
+        "price": 16000,
+        "model": "Focus",
+        "brand": "Ford",
+        "mileage": 20000
+    },
+    {
+        "color": "Черный",
+        "year": 2017,
+        "price": 18000,
+        "model": "Malibu",
+        "brand": "Chevrolet",
+        "mileage": 35000
+    },
+    {
+        "color": "Белый",
+        "year": 2016,
+        "price": 14000,
+        "model": "Altima",
+        "brand": "Nissan",
+        "mileage": 40000
+    },
+    {
+        "color": "Серый",
+        "year": 2019,
+        "price": 25000,
+        "model": "3 Series",
+        "brand": "BMW",
+        "mileage": 15000
+    },
+    {
+        "color": "Серебристый",
+        "year": 2018,
+        "price": 28000,
+        "model": "C-Class",
+        "brand": "Mercedes-Benz",
+        "mileage": 22000
+    },
+    {
+        "color": "Белый",
+        "year": 2017,
+        "price": 22000,
+        "model": "A4",
+        "brand": "Audi",
+        "mileage": 18000
+    },
+    {
+        "color": "Синий",
+        "year": 2020,
+        "price": 20000,
+        "model": "Jetta",
+        "brand": "Volkswagen",
+        "mileage": 10000
+    },
+    {
+        "color": "Серебристый",
+        "year": 2019,
+        "price": 17000,
+        "model": "Elantra",
+        "brand": "Hyundai",
+        "mileage": 23000
+    }
+]
